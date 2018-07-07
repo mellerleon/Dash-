@@ -1,2 +1,3 @@
 # Dash-
-Portable Arduino speed sensor!
+
+Dash is a portable Arduino speed sensor with nifty little features. It was the final project for my embedded systems class that utilized all the knowledge I've accumulated throughout the semester. The speed of an object is measured using two photoresistors to obtain the starting and stopping time. Time, speed, and speed limit are displayed on the LCD panel. Users could set the speed limit and piezo buzzer is triggered if an object exceeds the limit. The project encompasses principles of state machines, ADC, interrupts, I/O, and C language. It was great conclusion to one of my favorite classes at USC. Shoutout to Prof. Redekopp!! 
